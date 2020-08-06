@@ -5,13 +5,13 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 Below are descriptions of the columns:
 
-id: The unique identifier from Hacker News for the post
-title: The title of the post
-url: The URL that the posts links to, if it the post has a URL
-num_points: The number of points the post acquired, calculated as the total number of upvotes minus the total number of downvotes
-num_comments: The number of comments that were made on the post
-author: The username of the person who submitted the post
-created_at: The date and time at which the post was submitted
+- id: The unique identifier from Hacker News for the post
+- title: The title of the post
+- url: The URL that the posts links to, if it the post has a URL
+- num_points: The number of points the post acquired, calculated as the total number of upvotes minus the total number of downvotes
+- num_comments: The number of comments that were made on the post
+- author: The username of the person who submitted the post
+- created_at: The date and time at which the post was submitted
 
 I am specifically interested in posts which titles begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just generally something interesting.
 
